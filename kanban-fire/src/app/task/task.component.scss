@@ -1,0 +1,9 @@
+// Provide smooth animations instead of directly snapping the element
+:host {
+  display: block;
+}
+
+.item {
+  margin-bottom: 10px;
+  cursor: pointer;
+}

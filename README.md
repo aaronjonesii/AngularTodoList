@@ -1,4 +1,3 @@
-##Demo: https://kanbanfire-44c79.web.app/
 
 # KanbanFire
 
